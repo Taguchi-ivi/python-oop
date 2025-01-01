@@ -3,7 +3,7 @@ def main():
     try12(0)
     try16()
 
-# #12, #13, #14
+# #12 - #14
 def try12(num: int):
     # except部分には複数の例外を指定することができる
     # elseは例外が発生しなかった場合に実行される
@@ -26,7 +26,6 @@ def try12(num: int):
     #     # 例外が発生する可能性のあるコード
     # except Exception:
     #     pass
-
 
 # #16
 def try16():
