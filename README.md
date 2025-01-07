@@ -8,6 +8,3 @@
 |:-----------|:------------|
 | v1       | [Python で身につける オブジェクト指向【SOLID原則+デザインパターンで、オブジェクト指向設計 の基礎を習得！】](https://www.udemy.com/course/python-solid-design-pattern/)  |
 | v2     | [【脱オブジェクト指向初心者！】Pythonで学ぶSOLID原則・デザインパターン](https://www.udemy.com/course/python-solid-design-patterns/)  |
-
-
-講座資料: https://colab.research.google.com/drive/1BbXLrA0f_F7D_qMVzo6kXr09iFUCVtUZ#scrollTo=sdsK5w1QFTDM

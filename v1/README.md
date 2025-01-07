@@ -8,6 +8,7 @@ b# Hi👋 こちらはPythonのオブジェクト指向を再度勉強するた�
 |:-----------|:------------|
 | v1       | [Python で身につける オブジェクト指向【SOLID原則+デザインパターンで、オブジェクト指向設計 の基礎を習得！】](https://www.udemy.com/course/python-solid-design-pattern/)  |
 
+講座資料: https://colab.research.google.com/drive/1BbXLrA0f_F7D_qMVzo6kXr09iFUCVtUZ#scrollTo=sdsK5w1QFTDM
 
 ## コースの説明による追記 memo
 
