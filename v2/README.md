@@ -61,3 +61,13 @@ Unified Modeling Languageの略語<br>
     - [PlantUML](https://plantuml.com/ja/) このコースではこれを使う
     - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
   - ※上記記載内容は02_umlフォルダ内の画像見るとわかりやすいかも
+
+
+### SOLID原則概要
+ソフトフェア構築時に従うべきガイドライン<br>
+オブジェクト指向プログラミングにおいて、変更しやすく、理解しやすく、再利用しやすいモジュールを設計/開発するためのもの
+- S: Single Responsibility Principle 単一責任の原則
+- O: Open Closed Principle オープンクローズドの原則
+- L: Liskov Substitution Principle リスコフの置換原則
+- I: Interface Segregation Principle インターフェース分離の原則
+- D: Dependency Inversion Principle 依存性逆転の原則
