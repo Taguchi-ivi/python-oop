@@ -157,3 +157,26 @@ Unified Modeling Languageの略語<br>
   - DIコンテナとは
     - 自動でDIを行ってインスタンスを構築してくれる仕組み
     - 有名なライブラリとしてInjectorがある
+
+## デザインパターン
+過去のソフトウェア設計者が発見し、蓄積してきた設計のノウハウ集<br>
+オブジェクト指向プログラミングにおいて、よく出会う問題とその解決策がまとめられている<br>
+一般的にGang of Four(GoF)と呼ばれる4人の開発者によってまとめられた23種類の設計パターンのことを言う。
+
+
+- デザインパターンの分類
+  - 主に3つに分けられる
+    - オブジェクト生成に関するパターン
+      - Abstract Factory, Builder, Factory Method, Prototype, Singleton
+    - プログラムの構造に関するパターン
+      - Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+    - オブジェクトの振る舞いに関するパターン
+      - Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
+  - 学ぶ意義
+    - よくある問題のベストプラクティスを学べる
+    - 再利用性の高い柔軟性
+    - 開発者同士の共通言語
+    - オブジェクト指向をより深く理解できる
+  - 注意点
+    - 無理にでも当てはめようとしない。あくまでノウハウ
+    - 使い方を間違えると逆に複雑な設計になることもある。
